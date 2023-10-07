@@ -16,6 +16,7 @@ body{
     left: 0;
     bottom: 0;
     background-color: rgb(176, 7, 16);
+    position: absolute;
 
     
 
@@ -24,16 +25,20 @@ body{
     width: 50px;
     height: 100%;
     background-color: rgb(176, 7, 16);
+    position: absolute;
+    bottom: 0;
+    right: 0;
     
 }
 .second-line-of-n-letter{
-    width: 40px;
-    height: 10px;
+    width: 50px;
+    height: 100%;
     margin-left: 20px;
-    /* position: absolute;
-    top: 95px;
-    left: 10px;
-    transform: rotate(-10deg); */
+    top: 0;
+    left: 0;
+    position: absolute;
+    transform: skew(22deg);
+    transform-origin: left top;
     background-color: rgb(229, 9, 20);
 }
 .container{
