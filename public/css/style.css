@@ -4,6 +4,7 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
+    margin: 0;
 }
 .text-logo{
     color: white;
@@ -49,7 +50,5 @@ body{
     justify-content: space-between;
     align-items: center;
     border-radius: 2px;
-    -webkit-box-shadow: 4px 10px 81px 29px rgba(250,5,21,1);
-    -moz-box-shadow: 4px 10px 81px 29px rgba(250,5,21,1);
-    box-shadow: 4px 10px 81px 29px rgba(250,5,21,1);
+    margin: 0 auto;
 }
