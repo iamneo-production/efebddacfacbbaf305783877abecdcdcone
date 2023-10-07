@@ -17,10 +17,7 @@ body{
     left: 0;
     bottom: 0;
     background-color: rgb(176, 7, 16);
-    position: absolute;
     
-    
-
     
 
 }
@@ -28,10 +25,10 @@ body{
     width: 50px;
     height: 100%;
     background-color: rgb(176, 7, 16);
-    position: absolute;
+    
     bottom: 0;
     right: 0;
-    margin: 0;
+    
   
     
 }
@@ -41,9 +38,7 @@ body{
     margin-left: 20px;
     top: 0;
     left: 0;
-    margin: 0;
     
-    position: absolute;
     transform: skew(22deg);
     transform-origin: left top;
     background-color: rgb(229, 9, 20);
@@ -51,12 +46,12 @@ body{
 }
 .container{
     display: flex;
-    height: 200px;
-    width: 150px;
+    height: 250px;
+    width: 200px;
     position: relative;
     justify-content: center;
     align-items: center;
-    border-radius: 20px;
+    border-radius: 20px ;
     margin: 0 auto;
     background-color:inherit;
     box-shadow: 10px 10px 10px red;
