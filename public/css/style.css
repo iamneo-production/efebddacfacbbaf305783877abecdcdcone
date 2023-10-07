@@ -10,6 +10,9 @@ body{
     text-align: center;
     margin: 0 auto;
 }
-.first-line-of-n-letter{
+.first-line-of-n-letter,.second-line-of-n-letter,.third-line-of-n-letter{
+    width:40px ;
+    height: 10px;
     
+
 }
