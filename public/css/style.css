@@ -35,3 +35,7 @@ body{
     transform: rotate(-10deg); */
     background-color: rgb(229, 9, 20);
 }
+.container{
+    display: flex;
+    height: 200px;
+}
