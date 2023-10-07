@@ -49,6 +49,9 @@ body{
     position: relative;
     justify-content: space-between;
     align-items: center;
-    border-radius: 2px;
+    border-radius: 15px;
     margin: 0 auto;
+    background-color: white;
+    box-shadow: 10px 10px 10px red;
+
 }
