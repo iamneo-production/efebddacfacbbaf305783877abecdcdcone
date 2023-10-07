@@ -38,7 +38,8 @@ body{
     margin-left: 20px;
     top: 0;
     left: 0;
-    
+    border-radius: 5px;
+  box-shadow: 1px 2px 3px 4px 
     position: absolute;
     transform: skew(22deg);
     transform-origin: left top;
@@ -56,6 +57,7 @@ body{
     background-color:inherit;
     box-shadow: 10px 10px 10px red;
     padding: 20px;
-    align-items: center;
+    align-items: center; 
+  
 
 }
