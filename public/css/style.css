@@ -49,11 +49,13 @@ body{
     height: 200px;
     width: 150px;
     position: relative;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
-    border-radius: 15px;
+    border-radius: 20px;
     margin: 0 auto;
     background-color:inherit;
     box-shadow: 10px 10px 10px red;
+    padding: 20px;
+    align-items: center;
 
 }
