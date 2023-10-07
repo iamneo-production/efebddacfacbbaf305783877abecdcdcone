@@ -1,6 +1,12 @@
 body{
     background-color: rgb(37, 31, 31);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
 }
 .text-logo{
     color: white;
+    text-align: center;
+    margin: 0 auto;
 }
