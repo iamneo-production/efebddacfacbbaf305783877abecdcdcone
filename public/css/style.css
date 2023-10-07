@@ -18,6 +18,7 @@ body{
     bottom: 0;
     background-color: rgb(176, 7, 16);
     position: absolute;
+  
     
 
     
@@ -30,6 +31,7 @@ body{
     position: absolute;
     bottom: 0;
     right: 0;
+  
     
 }
 .second-line-of-n-letter{
@@ -38,12 +40,12 @@ body{
     margin-left: 20px;
     top: 0;
     left: 0;
-    border-radius: 5px;
-  box-shadow: 1px 2px 3px 4px 
+    
     position: absolute;
     transform: skew(22deg);
     transform-origin: left top;
     background-color: rgb(229, 9, 20);
+ 
 }
 .container{
     display: flex;
